@@ -1,0 +1,5 @@
+(require 'hello.world')
+(require 'src/hello.world')
+(require 'src/hello.world)
+(hello.world/-main 5000)
+quit
